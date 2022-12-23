@@ -29,3 +29,4 @@ From the analysis of the weather data for the island of Oahu, we can see that mo
 ### For Further Consideration
 
 After reviewing the weather data for the island of Oahu, it can be concluded that the average temperature doesn't fluctuate much between June and December as seen from the provided images. However, depending on which side of the island the surf shop will be located, leeward or windward, more research should be done into the wind patterns and best surf spots available. 
+
