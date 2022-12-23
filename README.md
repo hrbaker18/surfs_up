@@ -10,7 +10,7 @@ This analysis of weather data for the island of Oahu was requested by investor W
 
 From the analysis of the weather data we can see the varations in June and December temperatures on average below:
 
-![junetemps](surfs_up/Starter_Code/junetemps.png) ![dectemps1](surfs_up/Starter_Code/dectemps1.png)
+![junetemps1](surfs_up/Starter_Code/junetemps1.png) ![dectemps1](surfs_up/Starter_Code/dectemps1.png)
 
 - On average the highest temperature varies by two degrees, with 83 being the high for December and 85 the high for June
 - The low for June is 64 on average, compared to 56 in December
